@@ -16,6 +16,6 @@ internal class Program
         Console.WriteLine("Changed name and toy:");
         Console.WriteLine("Cat1 info: " + cat1);
         Console.WriteLine("Cat2 info: " + cat2);
-        Console.WriteLine("Cat2 info: " + cat3);
+        Console.WriteLine("Cat3 info: " + cat3);
     }
 }
