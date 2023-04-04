@@ -18,5 +18,6 @@ internal class Program
         store.Detach(customer2);
 
         store.State = 4;
+        
     } 
 }
